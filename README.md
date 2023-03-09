@@ -23,10 +23,10 @@ issue를 활용하여 질의응답. 질문 내용은 파트 담당자가 답변�
 |아이템|발표자|
 |:---:|:---:|
 |1. 생성자 대신 정적 팩터리 메서드를 고려하라 | [안형준](https://com-squadleader.tistory.com/195) |  
-|2. 생성자에 매개변수가 많다면 빌더를 고려하라 | [조예림]() |
+|2. 생성자에 매개변수가 많다면 빌더를 고려하라 | [조예림](https://joyerim.tistory.com/44) |
 |3. private 생성자나 열거 타입으로 싱글턴임을 보증하라 | [양재서](https://jaeseo0519.tistory.com/146) |
 |4. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [안형준](https://com-squadleader.tistory.com/195) |
-|5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [조예림]() |
+|5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [조예림](https://joyerim.tistory.com/45) |
 |6. 불필요한 객체 생성을 피하라| [양재서](https://jaeseo0519.tistory.com/149) |
 |7. 다 쓴 객체 참조를 해제하라| / |
 |8. finalizer와 cleaner 사용을 피하라| / |
