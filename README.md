@@ -36,8 +36,8 @@ issue를 활용하여 질의응답. 질문 내용은 파트 담당자가 답변�
 |아이템|발표자|
 |:---:|:---:|
 |10. equals는 일반 규약을 지켜 재정의하라 | [양재서](https://jaeseo0519.tistory.com/153) |
-|11. equals를 재정의하려거든 hashCode도 재정의하라 | [조예림](https://joyerim.tistory.com/50) |
-|12. toString을 항상 재정의하라 | [안형준](https://com-squadleader.tistory.com/202) |
+|11. equals를 재정의하려거든 hashCode도 재정의하라 | [안형준](https://com-squadleader.tistory.com/201) |
+|12. toString을 항상 재정의하라 | [조예](https://joyerim.tistory.com/51) |
 |13. clone 재정의는 주의해서 진행하라 | / |
 |14. Comparable을 구현할지 고려하라 | / |
 
