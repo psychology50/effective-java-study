@@ -38,17 +38,17 @@ issue를 활용하여 질의응답. 질문 내용은 파트 담당자가 답변�
 |10. equals는 일반 규약을 지켜 재정의하라 | [양재서](https://jaeseo0519.tistory.com/153) |
 |11. equals를 재정의하려거든 hashCode도 재정의하라 | [안형준](https://com-squadleader.tistory.com/201) |
 |12. toString을 항상 재정의하라 | [조예림](https://joyerim.tistory.com/51) |
-|13. clone 재정의는 주의해서 진행하라 | / |
-|14. Comparable을 구현할지 고려하라 | / |
+|13. clone 재정의는 주의해서 진행하라 | [양재서](https://jaeseo0519.tistory.com/158) |
+|14. Comparable을 구현할지 고려하라 | [안형준](https://com-squadleader.tistory.com/219) |
 
 ## 4장. 클래스와 인터페이스  
 
 |아이템|발표자|
 |:---:|:---:|
-|15. 클래스와 멤버의 접근 권한을 최소화하라 | / |
-|16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 | / |
-|17. 변경 가능성을 최소화하라 | / |
-|18. 상속보다는 컴포지션을 사용하라 | / |
+|15. 클래스와 멤버의 접근 권한을 최소화하라 | [조예림](https://joyerim.tistory.com/55) |
+|16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 | [조예림](https://joyerim.tistory.com/56) |
+|17. 변경 가능성을 최소화하라 | [양재서](https://jaeseo0519.tistory.com/162) |
+|18. 상속보다는 컴포지션을 사용하라 | [안형준](https://com-squadleader.tistory.com/223) |
 |19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라 | / |
 |20. 추상 클래스보다는 인터페이스를 우선하라 | / |
 |21. 인터페이스는 구현하는 쪽을 생각해 설계하라 | / |
